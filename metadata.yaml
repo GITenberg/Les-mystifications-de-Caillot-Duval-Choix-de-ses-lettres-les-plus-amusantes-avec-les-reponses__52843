@@ -1,0 +1,56 @@
+_repo: Les-mystifications-de-Caillot-Duval-Choix-de-ses-lettres-les-plus-amusantes-avec-les-reponses__52843
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Boisgelin de Kerdu, Pierre Marie Louis de
+    aliases:
+    - Boisgelin, Louis de
+    - De Boisgelin de Kerdu, Pierre Marie Louis
+    - De Kerdu, Pierre Marie Louis de Boisgelin
+    - Kerdu, Pierre Marie Louis de Boisgelin de
+    birthdate: &id001 1758
+    deathdate: 1816
+    gutenberg_agent_id: '43304'
+    url: http://www.gutenberg.org/2009/agents/43304
+  - agent_name: Fortia de Piles, A. (Alphonse), comte de
+    aliases:
+    - Pilles, A. Fortia de (Alphonse Fortia), comte
+    - Piles, A. Fortia de (Alphonse Fortia), comte
+    - Caillot Duval
+    - De Piles, A. Fortia (Alphonse Fortia), comte
+    - Fortia-Piles, M. le comte de (Alphonse)
+    - Fortia de Piles, Alphonse Toussaint Joseph André Marie Marseille, comte de
+    birthdate: *id001
+    deathdate: 1826
+    gutenberg_agent_id: '47076'
+    url: http://www.gutenberg.org/2009/agents/47076
+  editor:
+    agent_name: Larchey, Lorédan
+    aliases:
+    - Larchey, Etienne Loredan
+    - Larchey, Loredan
+    - Larchey, L. (Lorédan)
+    - Larchey, Étienne Lorédan
+    birthdate: 1831
+    deathdate: 1902
+    gutenberg_agent_id: '35600'
+    url: http://www.gutenberg.org/2009/agents/35600
+description: ''
+gutenberg_bookshelf:
+- FR Humour
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52843'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literary forgeries and mystifications'
+- !lcc 'PN'
+- GITenberg
+title: "Les mystifications de Caillot-Duval\r\nChoix de ses lettres les plus amusantes\
+  \ avec les réponses de ses victimes"
+url: http://www.gutenberg.org/ebooks/52843
