@@ -1,5 +1,8 @@
 _repo: Les-mystifications-de-Caillot-Duval-Choix-de-ses-lettres-les-plus-amusantes-avec-les-reponses__52843
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52843-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Boisgelin de Kerdu, Pierre Marie Louis de
@@ -8,7 +11,7 @@ creator:
     - De Boisgelin de Kerdu, Pierre Marie Louis
     - De Kerdu, Pierre Marie Louis de Boisgelin
     - Kerdu, Pierre Marie Louis de Boisgelin de
-    birthdate: &id001 1758
+    birthdate: 1758
     deathdate: 1816
     gutenberg_agent_id: '43304'
     url: http://www.gutenberg.org/2009/agents/43304
@@ -20,7 +23,7 @@ creator:
     - De Piles, A. Fortia (Alphonse Fortia), comte
     - Fortia-Piles, M. le comte de (Alphonse)
     - Fortia de Piles, Alphonse Toussaint Joseph André Marie Marseille, comte de
-    birthdate: *id001
+    birthdate: 1758
     deathdate: 1826
     gutenberg_agent_id: '47076'
     url: http://www.gutenberg.org/2009/agents/47076
@@ -36,6 +39,8 @@ creator:
     gutenberg_agent_id: '35600'
     url: http://www.gutenberg.org/2009/agents/35600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52843#Les-mystifications-de-Caillot-Duval-Choix-de-ses-lettres-les-plus-amusantes-avec-les-reponses_
 gutenberg_bookshelf:
 - FR Humour
 - FR Biographie, Mémoires, Journal intime, Correspondance
